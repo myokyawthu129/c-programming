@@ -1,0 +1,11 @@
+# ninja log v5
+0	82	6907988327486161	CMakeFiles/c_programming.dir/main.cpp.obj	f78d4848f2803e86
+117	294	6909101452623598	c_programming.exe	e19c7aee3ca56b33
+0	68	6908788966840219	CMakeFiles/c_programming.dir/4-loopingforloop.cpp.obj	6a99241d0a18e7b7
+0	126	6909115595672274	build.ninja	8dbcb87f379140f6
+1	71	6908788485012792	CMakeFiles/c_programming.dir/A_character_looping.cpp.obj	6f6a526ed5f437eb
+2	116	6909101450874680	CMakeFiles/c_programming.dir/b-looping.cpp.obj	f7579ef369b0b8e5
+2	80	6908220271401183	CMakeFiles/c_programming.dir/5-whileloop.cpp.obj	d5efca9b58b19ac9
+2	67	6908845731700906	CMakeFiles/c_programming.dir/a-character-looping.cpp.obj	e8216accd042d32b
+0	84	6909115610203406	CMakeFiles/c_programming.dir/a-character-looping.cpp.obj	e8216accd042d32b
+85	172	6909115611061384	c_programming.exe	6f3c40976a0f2c3b

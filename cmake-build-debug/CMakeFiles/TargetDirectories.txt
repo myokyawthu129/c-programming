@@ -1,0 +1,3 @@
+F:/diploma and computing/c-programming/cmake-build-debug/CMakeFiles/c_programming.dir
+F:/diploma and computing/c-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/diploma and computing/c-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
